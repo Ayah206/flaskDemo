@@ -1,5 +1,4 @@
-easy_install pip
-pip install virtualenv
+pip3 install virtualenv
 cd /usr/cddemo
 virtualenv environment
 source environment/bin/activate
